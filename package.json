@@ -1,5 +1,5 @@
 {
-  "name": "@anthropic-ai/sdk",
+  "name": "@voiceflow/anthropic",
   "version": "0.4.3",
   "description": "Library for accessing the Anthropic API",
   "repository": "https://github.com/anthropics/anthropic-sdk-typescript",
