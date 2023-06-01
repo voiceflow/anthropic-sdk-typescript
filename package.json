@@ -19,7 +19,7 @@
     "example:cancellation": "tsc --build && node ./build/examples/cancellation.js"
   },
   "dependencies": {
-    "@fortaine/fetch-event-source": "^3.0.6",
+    "@microsoft/fetch-event-source": "^2.0.1",
     "cross-fetch": "^3.1.5"
   },
   "devDependencies": {

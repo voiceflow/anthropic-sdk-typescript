@@ -1,4 +1,4 @@
-import { fetchEventSource } from "@fortaine/fetch-event-source";
+import { fetchEventSource } from "@microsoft/fetch-event-source";
 import fetch from "cross-fetch";
 
 export type SamplingParameters = {
