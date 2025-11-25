@@ -1,3 +1,6 @@
+> [!CAUTION]
+> Update Nov 24, 2025: This repository has been archived and will not accept further changes.
+
 # Anthropic TypeScript SDK [![npm](https://img.shields.io/npm/v/@anthropic-ai/sdk)](https://www.npmjs.com/package/@anthropic-ai/sdk)
 
 This package provides access to Anthropic's safety-first language model APIs.
